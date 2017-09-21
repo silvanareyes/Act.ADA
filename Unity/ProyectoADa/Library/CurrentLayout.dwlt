@@ -88,8 +88,13 @@ MonoBehaviour:
     y: 30
     width: 2560
     height: 1307
+<<<<<<< HEAD
   m_MinSize: {x: 913, y: 442}
   m_MaxSize: {x: 22008, y: 10021}
+=======
+  m_MinSize: {x: 911, y: 442}
+  m_MaxSize: {x: 22006, y: 10021}
+>>>>>>> Nueva-branch-prueba
   vertical: 0
   controlID: 21
 --- !u!114 &5
@@ -130,7 +135,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1207
+=======
+    width: 1208
+>>>>>>> Nueva-branch-prueba
     height: 1307
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
@@ -150,7 +159,11 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1207
+=======
+    x: 1208
+>>>>>>> Nueva-branch-prueba
     y: 0
     width: 411
     height: 1307
@@ -175,7 +188,11 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1618
+=======
+    x: 1619
+>>>>>>> Nueva-branch-prueba
     y: 0
     width: 367
     height: 1307
@@ -200,12 +217,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1985
     y: 0
     width: 575
     height: 1307
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    x: 1986
+    y: 0
+    width: 574
+    height: 1307
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> Nueva-branch-prueba
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -228,7 +254,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1207
+=======
+    width: 1208
+>>>>>>> Nueva-branch-prueba
     height: 670
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
@@ -253,10 +283,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 670
+<<<<<<< HEAD
     width: 1207
     height: 637
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
+=======
+    width: 1208
+    height: 637
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> Nueva-branch-prueba
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -315,7 +352,11 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1209
+=======
+    x: 1210
+>>>>>>> Nueva-branch-prueba
     y: 92
     width: 407
     height: 1286
@@ -368,9 +409,15 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1987
     y: 92
     width: 573
+=======
+    x: 1988
+    y: 92
+    width: 572
+>>>>>>> Nueva-branch-prueba
     height: 1286
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
@@ -401,7 +448,11 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1620
+=======
+    x: 1621
+>>>>>>> Nueva-branch-prueba
     y: 92
     width: 363
     height: 1286
@@ -535,7 +586,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 762
+<<<<<<< HEAD
     width: 1205
+=======
+    width: 1206
+>>>>>>> Nueva-branch-prueba
     height: 616
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -545,8 +600,13 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -602.5
     m_HBaseRangeMax: 602.5
+=======
+    m_HBaseRangeMin: -603
+    m_HBaseRangeMax: 603
+>>>>>>> Nueva-branch-prueba
     m_VBaseRangeMin: -299.5
     m_VBaseRangeMax: 299.5
     m_HAllowExceedBaseRangeMin: 1
@@ -565,25 +625,42 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
       width: 1205
       height: 599
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 602.5, y: 299.5}
+=======
+      width: 1206
+      height: 599
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 603, y: 299.5}
+>>>>>>> Nueva-branch-prueba
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -602.5
       y: -299.5
       width: 1205
+=======
+      x: -603
+      y: -299.5
+      width: 1206
+>>>>>>> Nueva-branch-prueba
       height: 599
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 1205, y: 616}
+=======
+  m_LastWindowPixelSize: {x: 1206, y: 616}
+>>>>>>> Nueva-branch-prueba
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -611,7 +688,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 92
+<<<<<<< HEAD
     width: 1205
+=======
+    width: 1206
+>>>>>>> Nueva-branch-prueba
     height: 649
   m_SceneLighting: 1
   lastFramingTime: 0
